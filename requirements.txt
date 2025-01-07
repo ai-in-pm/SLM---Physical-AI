@@ -1,0 +1,23 @@
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+numpy>=1.24.0
+opencv-python>=4.7.0
+ultralytics  # For YOLO
+pillow>=9.5.0
+scikit-learn>=1.0.2
+tqdm>=4.65.0
+matplotlib>=3.7.1
+python-dotenv>=1.0.0
+openai>=1.0.0
+anthropic>=0.5.0
+inflection>=0.5.1
+python-decouple>=3.8
+psutil>=5.9.0    # System monitoring
+gputil>=1.4.0    # GPU monitoring
+captum>=0.6.0    # Model interpretability
+seaborn>=0.12.0  # Visualization
+torchaudio>=2.0.0  # Audio processing
+optuna>=3.3.0    # Hyperparameter optimization
+pytest>=7.4.0    # Testing
+mypy>=1.5.0      # Type checking
