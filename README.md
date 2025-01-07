@@ -2,6 +2,8 @@
 
 A lightweight multimodal AI system inspired by NVIDIA's Physical AI Model, optimized for small language models (SLMs). This system enables efficient processing of visual and textual inputs to generate robotic actions, designed specifically for edge deployment.
 
+![Physical-AI-model](https://github.com/user-attachments/assets/7fb7dd92-5064-43a5-bc71-57408774772c)
+
 ## Architecture
 
 The system follows a token-based processing pipeline with the following components:
